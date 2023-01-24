@@ -1,0 +1,35 @@
+#primergato {
+    background-color: blueviolet;
+    border: 5px solid black;
+}
+#segundogato {
+    background-color: rgb(214, 226, 43);
+    border: 5px solid black;
+}
+#tercergato {
+    background-color: rgb(226, 43, 202);
+    border: 5px solid black;
+}
+#gatocuarto {
+    background-color: rgb(226, 116, 43);
+    border: 5px solid black;
+}
+ #gatoquinto {
+    background-color: rgb(5, 0, 10);
+    color:white
+    
+}
+#gatosexto {
+    background-color: rgb(238, 255, 0);
+    border: 5px solid black;
+}
+#derecho {
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255)
+   
+}
+header {
+    text-align: center;
+    background-color: rgb(255, 153, 0)
+
+}
