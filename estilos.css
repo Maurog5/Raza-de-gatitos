@@ -1,0 +1,19 @@
+#gatoquinto {
+    background-color: rgb(5, 0, 10);
+    color:white
+    
+}
+#gatosexto {
+    background-color: rgb(238, 255, 0);
+    border: 5px solid black;
+}
+#derecho {
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255)
+   
+}
+header {
+    text-align: center;
+    background-color: rgb(255, 153, 0)
+
+}
